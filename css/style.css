@@ -248,6 +248,23 @@ img{
 }
 
 /* Contacto */
+.error{
+    background-color: red;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: var(--blanco);
+    text-transform: uppercase;
+}
+
+.check{
+    background-color: green;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: var(--blanco);
+    text-transform: uppercase;
+}
 
 .contacto-bg{
     background-image: url(../img/contacto.jpg);
